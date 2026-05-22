@@ -1,0 +1,4 @@
+host,ip,status,checked_at
+example.com,93.184.216.34,valid,2026-05-23T05:28:23.001588Z
+test.local,127.0.0.1,valid,2026-05-23T05:28:23.004269Z
+bad-ip,,invalid,2026-05-23T05:28:23.004637Z
